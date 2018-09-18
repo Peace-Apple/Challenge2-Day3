@@ -1,0 +1,7 @@
+{
+  "missing_numbers_test.py::test_missing": true,
+  "missing_numbers_test.py::test_missing::test_input_is_list": true,
+  "missing_numbers_test.py::test_missing::test_missingNumber": true,
+  "missing_numbers_test.py::test_missing_number::test_input_is_list": true,
+  "missing_numbers_test.py::test_missing_number::test_missingNumber": true
+}
